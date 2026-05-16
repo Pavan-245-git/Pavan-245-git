@@ -2,8 +2,12 @@
 
 # 👋 Hey there, I'm Sanapala Pavan Satwick !
 
-### 💻 AIML BTech  @ Malla Reddy University <br> (2023-2027)
-### 🚀 [Your Main Skills e.g., Full Stack | AI/ML]
+### 💻 AIML BTech @ Malla Reddy University <br> (2023-2027)
+### 🚀 Full Stack | AI/ML
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+/+Data+Analytics+Enthusiast...;Building+innovative+web+apps...;Solving+real-world+problems..." alt="Typing SVG" />
 
 </div>
 
@@ -14,9 +18,9 @@
 Passionate about building AI-driven solutions and intelligent systems that solve real-world problems through data and technology. 
 I enjoy exploring Machine Learning, analyzing data for meaningful insights, and continuously learning modern AI tools and technologies.
 
-*Artificial Intelligence & Machine Learning*: Predictive analytics, NLP, and data-driven models.
-*Data Analytics*: Data cleaning, EDA, visualization, and insight generation using Python.
-*Development*: Building scalable applications and intelligent solutions with modern technologies.
+* **Artificial Intelligence & Machine Learning**: Predictive analytics, NLP, and data-driven models.
+* **Data Analytics**: Data cleaning, EDA, visualization, and insight generation using Python.
+* **Development**: Building scalable applications and intelligent solutions with modern technologies.
 
 ---
 
@@ -34,19 +38,19 @@ I enjoy exploring Machine Learning, analyzing data for meaningful insights, and 
 
 ## 🚀 Featured Projects
 
-### 🌱 Project Name 1 - e.g., Plant Disease Detection
+### 🌱 [Plant Disease Detection](https://github.com/Pavan-245-git)
 AI-powered Plant Disease Detection app identifying plant leaf diseases using image processing and Machine Learning techniques. <br>
 *Tech: Python | Flask | OpenCV | TensorFlow | CNN*
 
 ---
 
-### ✨ Project Name 2 - e.g., Automatic Abstarctive Text Summarization
+### ✨ [Automatic Abstractive Text Summarization](https://github.com/Pavan-245-git)
 AI-powered Abstractive Text Summarization app generating human-like summaries from lengthy text using Natural Language Processing techniques. <br>
 *Tech: Python | NLP | Transformers | Flask | TensorFlow*
 
 ---
 
-### 🤖 Project Name 3 - e.g., StudyGPT AI – Intelligent RAG-Based Educational Assistant
+### 🤖 [StudyGPT AI – Intelligent RAG-Based Educational Assistant](https://github.com/Pavan-245-git)
 AI-powered educational assistant enabling contextual doubt solving from PDFs using Retrieval-Augmented Generation (RAG) and conversational AI. <br>
 *Tech: React | FastAPI | Python | Gemini API | LangChain | ChromaDB | PostgreSQL*
 
@@ -54,14 +58,16 @@ AI-powered educational assistant enabling contextual doubt solving from PDFs usi
 
 ## 🎓 Education
 
-👨‍🎓 **BTech in CSE (AI/Ml)** — *Malla Reddy University, Hyderabad* (2023–2027) <br>
+👨‍🎓 **BTech in CSE (AI/ML)** — *Malla Reddy University, Hyderabad* (2023–2027) <br>
 CGPA: 8.01 (Till 3rd Semester)
 
-📘 **Intermediate (MPC) ** — *Sri Chaitanya Junior college (Bhaskar Bhavan) , Hyderabad * (2020–2021) <br>
+📘 **Intermediate (MPC)** — *Sri Chaitanya Junior College (Bhaskar Bhavan), Hyderabad* (2020–2021) <br>
 Percentage: 80.6%
 
-🏫 **SSC** — *Sri Chaitanya Techno School, Hyderabad (2020-2021)
+🏫 **SSC** — *Sri Chaitanya Techno School, Hyderabad* (2020-2021) <br>
 CGPA: 10
+
+---
 
 ## 🌍 Connect With Me
 
@@ -84,7 +90,7 @@ CGPA: 10
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Pavan-245-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -101,10 +107,10 @@ CGPA: 10
 
 * 💡 Interested in building innovative AI and full-stack technology solutions.
 * 🏏 Passionate about cricket, teamwork, and learning modern techniques in the game.
-* 🔥 Motto: “Pressure defines who we are and who we’re not.”*
+* 🔥 Motto: *"Pressure defines who we are and who we’re not."*
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Pavan-245-git&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
