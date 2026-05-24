@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/Pavan-245-git">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00C2FF,50,0080FF,100,8000FF&height=220&section=header&text=Sanapala%20Pavan%20Satwick&fontSize=45&fontAlignY=35&animation=twinkle" alt="Header Banner" />
+    <!-- Waving Header Banner in custom gradient matching your screenshot with cache buster to force GitHub to bypass old cache -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4eab91,50:287ab5,100:6c3483&text=Hi!%20I'm%20Pavan%20Satwick&fontSize=38&fontColor=ffffff&font=Fira%20Code&animation=twinkle&height=225&desc=Welcome%20to%20my%20GitHub%20Profile!&fontAlignY=36&descAlignY=64&v=4" alt="Header Banner" />
   </a>
 </p>
 
@@ -22,27 +23,42 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tech Stack & Tools
 
-<div align="left">
+<div align="center">
+
+  <h3>🖥️ Frontend & UI</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,bootstrap" alt="Frontend" />
+  </a>
   
-  🌐 <b>Programming Languages</b><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,java,js" alt="Languages" /></a>
+  <br><br><br>
   
-  <br><br>
+  <h3>⚙️ Backend & APIs</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,spring,nodejs,express,fastapi,flask,postman" alt="Backend & DB" />
+  </a>
   
-  🎨 <b>Frontend Development</b><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css" alt="Frontend" /></a>
+  <br><br><br>
   
-  <br><br>
+  <h3>🤖 AI, Machine Learning & Data Science</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,opencv" alt="AI/ML" />
+  </a>
   
-  ⚙️ <b>Backend & Databases</b><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql" alt="Backend & DB" /></a>
+  <br><br><br>
   
-  <br><br>
+  <h3>🗄️ Databases & ORMs</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="Databases" />
+  </a>
   
-  🛠️ <b>Tools & DevOps</b><br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" /></a>
+  <br><br><br>
+  
+  <h3>🛠️ DevOps, Cloud & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,vscode,linux" alt="Tools & DevOps" />
+  </a>
 
 </div>
 
@@ -124,14 +140,13 @@
 
 <div align="center">
   <h3>📈 Contribution Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavan-245-git&theme=react-dark&bg_color=0D1117&line=00C2FF&point=00C2FF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <!-- Cyber Radical Theme Activity Graph (Neon Pink Line, Yellow Accents) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavan-245-git&theme=radical&bg_color=0D1117&line=fe428e&point=f8d847&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <h3>👾 Contribution Snake (Grid Dot Animation)</h3>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavan-245-git/Pavan-245-git/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavan-245-git/Pavan-245-git/output/github-snake.svg">
@@ -143,41 +158,62 @@
 
 <div align="center">
   <h3>⚡ Professional Metrics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavan-245-git&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=ffffff&hide_border=true" alt="Pavan's GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-245-git&theme=tokyonight&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Pavan's GitHub Streak" height="160" />
+  <br>
+  <!-- Side-by-side centered metrics. 
+       Using the highly stable profile-details card from github-profile-summary-cards to resolve rate limit errors completely. -->
+  <table border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td valign="top" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavan-245-git&theme=radical" alt="Pavan's GitHub Stats" height="150" />
+      </td>
+      <td valign="top" align="center" width="20"></td>
+      <td valign="top" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavan-245-git&theme=radical&background=0D1117&hide_border=true" alt="Pavan's GitHub Streak" height="150" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <!-- Top Languages commit card from summary-cards (replaces rate-limited github-readme-stats version) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pavan-245-git&theme=radical" alt="Pavan's Top Languages" height="180" />
 </div>
 
 ---
 
 ## 🏆 Achievements & Fun Facts
 
-- 🚀 **Intelligent Applications:** Successfully developed and deployed practical AI/ML models (NLP summarizers, Computer Vision plant health analysis).
+- 🚀 **Intelligent Applications:** Successfully developed and deployed practical AI/ML models (NLP summaries, plant detection).
 - 🧠 **Scalable Solutions:** Designed and engineered full-stack architectures integrating LLMs, FastAPI, and React.
 - 📈 **Continuous Excellence:** Maintaining a high academic standing (8.01 CGPA) while building industry-relevant hands-on projects.
 - 🏏 **Strategy & Teamwork:** Passionate about cricket, focusing on teamwork, strategy, and analytical thinking.
-- 🔥 **Motto:** *"Pressure defines who we are and who we’re not."*
+- 🥇 **Motto:** *"Pressure defines who we are and who we’re not."*
 
 ---
 
-## 🌍 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
+  <br>
+  <!-- Centered Row of Blue-themed badges matching your new profile color palette -->
   <a href="mailto:sanapalapavansatwick@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0080FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Pavan-245-git">
-    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/sanapala-pavan-satwick-59a8a9310">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <br><br>
+  <br><br><br>
   📍 <b>Hyderabad, India</b>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pavan-245-git&label=PROFILE+VIEWS&color=00c2ff&style=flat-square" alt="Profile Views" />
+  <br><br><br>
+  
+  <!-- Matching neon blue profile views badge -->
+  <img src="https://komarev.com/ghpvc/?username=Pavan-245-git&label=PROFILE+VIEWS&color=00c2ff&style=for-the-badge" alt="Profile Views" />
+  
+  <br><br><br>
+  <!-- Waving Footer Banner in custom gradient matching your screenshot with forced cache buster -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4eab91,50:287ab5,100:6c3483&height=85&section=footer&v=4" alt="Footer Banner" width="100%" />
 </div>
